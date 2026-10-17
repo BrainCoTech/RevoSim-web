@@ -4,7 +4,7 @@ Project website for **RevoSim: Scalable Multimodal Tactile Simulation for Dexter
 
 The site presents five tactile modalities, synchronized contact examples, and manipulation videos with LeRobot data collection support. The paper is coming soon.
 
-Website: [davidlxu.github.io/RevoSim-web](https://davidlxu.github.io/RevoSim-web/)
+Website: [braincotech.github.io/RevoSim-web](https://braincotech.github.io/RevoSim-web/)
 
 GitHub Actions publishes the static files from the `main` branch to GitHub Pages. Asset links are relative so the site works under `/RevoSim-web/`.
 
