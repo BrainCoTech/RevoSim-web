@@ -4,7 +4,7 @@
     "AN": 0,
     "AS": 79,
     "EU": 2,
-    "NA": 88,
+    "NA": 89,
     "OC": 0,
     "SA": 0,
     "UN": 0
@@ -16,7 +16,7 @@
     "JP": 22,
     "SG": 23,
     "TW": 5,
-    "US": 88
+    "US": 89
   },
   "countries_count": 7,
   "metric": "GoatCounter location visits; not all-time unique people",
@@ -24,6 +24,6 @@
   "provider": "GoatCounter",
   "site": "https://davidlxu.goatcounter.com",
   "started_at": "2026-09-20T00:00:00Z",
-  "total_visits": 169,
-  "updated_at": "2026-10-21T07:37:55+00:00"
+  "total_visits": 170,
+  "updated_at": "2026-10-21T13:46:46+00:00"
 }
