@@ -2,9 +2,9 @@
   "continents": {
     "AF": 0,
     "AN": 0,
-    "AS": 201,
-    "EU": 8,
-    "NA": 177,
+    "AS": 202,
+    "EU": 9,
+    "NA": 179,
     "OC": 0,
     "SA": 0,
     "UN": 0
@@ -12,9 +12,10 @@
   "countries": {
     "CA": 3,
     "CH": 2,
-    "CN": 31,
+    "CN": 32,
     "CZ": 1,
     "DE": 2,
+    "FR": 1,
     "GB": 3,
     "HK": 36,
     "IN": 2,
@@ -25,15 +26,15 @@
     "SG": 40,
     "TR": 2,
     "TW": 17,
-    "US": 174,
+    "US": 176,
     "VN": 2
   },
-  "countries_count": 17,
+  "countries_count": 18,
   "metric": "GoatCounter location visits; not all-time unique people",
   "path": "/RevoSim-web/",
   "provider": "GoatCounter",
   "site": "https://davidlxu.goatcounter.com",
   "started_at": "2026-09-20T00:00:00Z",
-  "total_visits": 386,
-  "updated_at": "2026-11-17T03:51:43+00:00"
+  "total_visits": 390,
+  "updated_at": "2026-11-17T13:22:55+00:00"
 }
