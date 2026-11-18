@@ -3,7 +3,7 @@
     "AF": 0,
     "AN": 0,
     "AS": 206,
-    "EU": 11,
+    "EU": 12,
     "NA": 181,
     "OC": 0,
     "SA": 0,
@@ -16,7 +16,7 @@
     "CN": 32,
     "CZ": 1,
     "DE": 3,
-    "FR": 1,
+    "FR": 2,
     "GB": 3,
     "HK": 38,
     "IN": 2,
@@ -36,6 +36,6 @@
   "provider": "GoatCounter",
   "site": "https://davidlxu.goatcounter.com",
   "started_at": "2026-09-20T00:00:00Z",
-  "total_visits": 398,
-  "updated_at": "2026-11-18T13:56:23+00:00"
+  "total_visits": 399,
+  "updated_at": "2026-11-18T21:55:04+00:00"
 }
