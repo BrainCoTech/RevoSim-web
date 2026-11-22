@@ -2,7 +2,7 @@
   "continents": {
     "AF": 0,
     "AN": 0,
-    "AS": 217,
+    "AS": 218,
     "EU": 13,
     "NA": 192,
     "OC": 0,
@@ -20,7 +20,7 @@
     "GB": 3,
     "HK": 40,
     "IN": 3,
-    "JP": 63,
+    "JP": 64,
     "KR": 9,
     "MY": 1,
     "PK": 1,
@@ -36,6 +36,6 @@
   "provider": "GoatCounter",
   "site": "https://davidlxu.goatcounter.com",
   "started_at": "2026-09-20T00:00:00Z",
-  "total_visits": 422,
-  "updated_at": "2026-11-22T03:11:32+00:00"
+  "total_visits": 423,
+  "updated_at": "2026-11-22T11:20:51+00:00"
 }
